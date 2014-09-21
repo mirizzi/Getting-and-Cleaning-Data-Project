@@ -1,6 +1,4 @@
----
-output: word_document
----
+
 ## Getting and Cleaning Data Project
 
 Mirizzi
